@@ -1,0 +1,17 @@
+#bannersection {
+    background-image: url(images/top.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    position: relative;
+    background-position: center top;
+    padding: 5em 0em;
+    
+}
+
+#bannerform{
+    width: auto;
+    margin-right: 20%;
+    background-color: aqua;
+    padding-left: 1%;
+    padding-top: 1%;
+}
