@@ -404,8 +404,8 @@
                         <div class="box-card px-3 py-4">
                             <div class="card">
                             <i class="fa-solid fa-money-bill-1-wave fs-1 pt-3 text-center"></i>
-                                <div class="card-body">
-                                    <p class="card-text text-center fs-3 pb-5">Competitive ​Prices</p>
+                                <div class="card-body pb-5">
+                                    <p class="card-text text-center fs-3">Competitive ​Prices</p>
                                 </div>
                             </div>
                         </div>
@@ -422,42 +422,42 @@
                     </div>
                 </div>
                 <div class="row studiogallery g-1">
-                    <div class="col-sm-6 col-md-6 col-lg-2">
+                    <div class="col-sm-6 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
-                                <img src="images/ClassicWardrobe.jpg" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <p class="card-text">Classic Wardrobe</p>
+                            <i class="fa-solid fa-star fs-1 pt-3 text-center"></i>
+                                <div class="card-body pb-5">
+                                    <p class="card-text text-center fs-3">Superior ​Materal</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-2">
+                    <div class="col-sm-6 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
-                                <img src="images/ModernKitchen2.jpg" class="card-img-top" alt="...">
+                            <i class="fa-solid fa-house fs-1 pt-3 text-center"></i>
                                 <div class="card-body">
-                                    <p class="card-text">Modern Kitchen</p>
+                                    <p class="card-text text-center fs-3">Best Quality ​Hardware</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-2">
+                    <div class="col-sm-6 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
-                                <img src="images/HomeInteriors.jpg" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <p class="card-text">Home Interiors</p>
+                            <i class="fa-solid fa-money-bill-1-wave fs-1 pt-3 text-center"></i>
+                                <div class="card-body pb-5">
+                                    <p class="card-text text-center fs-3">Value for ​Money</p>
                                 </div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-2">
+                    <div class="col-sm-6 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
-                                <img src="images/HomeInteriors.jpg" class="card-img-top" alt="...">
-                                <div class="card-body">
-                                    <p class="card-text">Home Interiors</p>
+                            <i class="fa-solid fa-earth-americas fs-1 pt-3 text-center"></i>
+                                <div class="card-body pb-5">
+                                    <p class="card-text text-center fs-3">10 Year ​Warranty</p>
                                 </div>
                             </div>
                         </div>
