@@ -273,12 +273,12 @@
                 <h2>Creo promise a lifetime quality</h2>
             </div>
 
-            
+
         </div>
     </div>
-    <div class="container">
-        <div class="row mt-5">
-        <table class="table table-striped">
+    <div class="container-fluid">
+        <div class="row mt-5 mb-5">
+            <table class="table table-striped">
                 <thead>
                     <tr>
                         <th scope="col"></th>
@@ -368,6 +368,102 @@
                     </tr>
                 </tbody>
             </table>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row justify-content-center" style="background-color: papayawhip;">
+            <div class="col-10 mx-5 my-5 px-5 py-5 bg-light">
+                <h4 class="mt-3 mb-4 fw-light">KNOW MORE</h4>
+                <h2>Why choose CREO?</h2>
+                <hr class="hline text-danger mb-5">
+                <p class="fs-3 fw-light">At Creo, we cater to every category and budget, fulfilling every need with our comprehensive ​range. Whether it's the design you desire, the price you seek, or the timeline you require, we ​handle it all under one roof. Our designs exude minimalism, modernity, and Italian flair.</p>
+                <div class="row studiogallery g-1 mb-1 mt-5 my-5">
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="box-card px-3 py-4">
+                            <div class="card">
+                                <!-- <img src="images/ClassicKitchen.jpg" class="card-img-top" alt="..."> -->
+                                <i class="fa-solid fa-circle-check fs-1 pt-3 text-center"></i>
+                                <div class="card-body">
+                                    <p class="card-text text-center fs-3">Multiple Quality ​Checks</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="box-card px-3 py-4">
+                            <div class="card">
+                            <i class="fa-solid fa-house fs-1 pt-3 text-center"></i>
+                                <div class="card-body">
+                                    <p class="card-text text-center fs-3">World Class ​Designs</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="box-card px-3 py-4">
+                            <div class="card">
+                            <i class="fa-solid fa-money-bill-1-wave fs-1 pt-3 text-center"></i>
+                                <div class="card-body">
+                                    <p class="card-text text-center fs-3 pb-5">Competitive ​Prices</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-3">
+                        <div class="box-card px-3 py-4">
+                            <div class="card">
+                            <i class="fa-solid fa-earth-americas fs-1 pt-3 text-center"></i>
+                                <div class="card-body">
+                                    <p class="card-text text-center fs-3">Worldwide Product ​Delivery</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="row studiogallery g-1">
+                    <div class="col-sm-6 col-md-6 col-lg-2">
+                        <div class="box-card px-3 py-4">
+                            <div class="card">
+                                <img src="images/ClassicWardrobe.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text">Classic Wardrobe</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-2">
+                        <div class="box-card px-3 py-4">
+                            <div class="card">
+                                <img src="images/ModernKitchen2.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text">Modern Kitchen</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-2">
+                        <div class="box-card px-3 py-4">
+                            <div class="card">
+                                <img src="images/HomeInteriors.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text">Home Interiors</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 col-md-6 col-lg-2">
+                        <div class="box-card px-3 py-4">
+                            <div class="card">
+                                <img src="images/HomeInteriors.jpg" class="card-img-top" alt="...">
+                                <div class="card-body">
+                                    <p class="card-text">Home Interiors</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 

@@ -19,3 +19,9 @@
 .box-card{
     padding: 10px 30px;
 }
+
+.hline {
+    color: red;
+    width: 30%;
+    font-weight: bolder;
+}
