@@ -163,7 +163,7 @@
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 15 Design Brands Worldwide</h3>
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 10-Year Warranty by Creo Interiors</h3>
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 25000 sq. ft. Display in</h3>
-                    <h3 class="text-light">Delhi & Bengaluru</h3>
+                    <h3 class="ms-2">Delhi & Bengaluru</h3>
                 </div>
                 <div class="col-7">
                     <!-- <div class="container"> -->
@@ -209,34 +209,168 @@
                                     </div>
                                 </div>
                             </div>
-                            </div>
-                            <div class="col-sm-6 col-md-6 col-lg-4">
-                                <div class="box-card px-3 py-4">
-                                    <div class="card">
-                                        <img src="images/ModernKitchen2.jpg" class="card-img-top" alt="...">
-                                        <div class="card-body">
-                                            <p class="card-text">Modern Kitchen</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-6 col-md-6 col-lg-4">
-                                <div class="box-card px-3 py-4">
-                                    <div class="card">
-                                        <img src="images/HomeInteriors.jpg" class="card-img-top" alt="...">
-                                        <div class="card-body">
-                                            <p class="card-text">Home Interiors</p>
-                                        </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4">
+                            <div class="box-card px-3 py-4">
+                                <div class="card">
+                                    <img src="images/ModernKitchen2.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="card-text">Modern Kitchen</p>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                        <!-- </div> -->
-
+                        <div class="col-sm-6 col-md-6 col-lg-4">
+                            <div class="box-card px-3 py-4">
+                                <div class="card">
+                                    <img src="images/HomeInteriors.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="card-text">Home Interiors</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
                     </div>
+                    <!-- </div> -->
+
                 </div>
             </div>
+        </div>
     </section>
+
+    <div class="container">
+        <div class="row mb-3">
+            <div id="carouselExample" class="carousel slide">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <img src="images/bannerMostPopular01.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/bannerMostPopular02.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                        <img src="images/bannerMostPopular03.jpg" class="d-block w-100" alt="...">
+                    </div>
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
+            <div class="text-center my-5">
+                <button class="btn btn-danger btn-lg">Get Your Design ready</button>
+            </div>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="text-center text-light py-3" style="background-color: red;">
+                <h2>Creo promise a lifetime quality</h2>
+            </div>
+
+            
+        </div>
+    </div>
+    <div class="container">
+        <div class="row mt-5">
+        <table class="table table-striped">
+                <thead>
+                    <tr>
+                        <th scope="col"></th>
+                        <th scope="col" class="fs-3 text-center">Attributes</th>
+                        <th scope="col" class="fs-3 text-center">CREO Interiors</th>
+                        <th scope="col" class="fs-3 text-center">Other Interiors</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">24x7 Customer Support</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">Interior Expertise</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-cente">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">In-House R&D Team</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">On-Time Delivery</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">Free Expert Consultation</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">15+ Worldwide Design Brands</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">Sheer Quality</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">10 Year Warranty</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">Value for Money</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">Easy Installation</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">In-House Installation Team</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">Hospitality furniture</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                    <tr>
+                        <th scope="row"></th>
+                        <td class="fs-3 text-center">Over 300 Customization Options</td>
+                        <td class="fs-3 text-center"><i class="text-danger fw-bold fs-3 text-center">✓</i></td>
+                        <td class="text-danger fw-bold fs-3 text-center">X</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
