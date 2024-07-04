@@ -57,9 +57,9 @@
 
 
 
-    <div class="container-fluid">
-        <div class="row mt-3">
-            <div class="col-12 d-flex justify-content-around">
+    <div class="container">
+        <div class="row mt-3 mx-5">
+            <div class="col-12 d-flex justify-content-between">
                 <div class="float-start pt-2">
                     <img src="images/logo.png" alt="">
                 </div>
@@ -69,7 +69,7 @@
                 </div>
             </div>
         </div>
-</div>
+    </div>
 
 
     <ul class="nav d-flex justify-content-evenly mx-5 mt-3">
@@ -92,7 +92,7 @@
 
     <section id="bannersection">
         <div class="container  mt-2">
-            <div class="row">                
+            <div class="row">
                 <div class="col-5 my-5">
                     <h2 class="text-light"><i>Designed in Italy</i></h2>
                     <h2 class="mb-5 text-light"><i>Built in India</i></h2>
@@ -146,6 +146,96 @@
                 </div>
             </div>
         </div>
+    </section>
+
+
+    <section>
+        <div class="container">
+            <div class="row my-5">
+                <div class="col-5 mt-5 pt-5">
+                    <h5 class="mb-5">WHAT WE OFFER</h5>
+                    <h2 class="">From Kitchen to Wardrobe,</h2>
+                    <h2 class="">We've Got You Covered!</h2>
+                    <hr class="bg-danger mb-5" style="height: 8px;">
+                    <h3 class=""><i class="text-danger fw-bold">✓</i> 6000+ Happy Customers</h3>
+                    <h3 class=""><i class="text-danger fw-bold">✓</i> 5000+ Kitchens Installed</h3>
+                    <h3 class=""><i class="text-danger fw-bold">✓</i> 7000+ Pieces of Furniture Delivered</h3>
+                    <h3 class=""><i class="text-danger fw-bold">✓</i> 15 Design Brands Worldwide</h3>
+                    <h3 class=""><i class="text-danger fw-bold">✓</i> 10-Year Warranty by Creo Interiors</h3>
+                    <h3 class=""><i class="text-danger fw-bold">✓</i> 25000 sq. ft. Display in</h3>
+                    <h3 class="text-light">Delhi & Bengaluru</h3>
+                </div>
+                <div class="col-7">
+                    <!-- <div class="container"> -->
+                    <div class="row studiogallery g-1 mb-1 my-5">
+                        <div class="col-sm-6 col-md-6 col-lg-4">
+                            <div class="box-card px-3 py-4">
+                                <div class="card">
+                                    <img src="images/ClassicKitchen.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="card-text">Classic Kitchen</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4">
+                            <div class="box-card px-3 py-4">
+                                <div class="card">
+                                    <img src="images/ModernKitchen.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="card-text text-center">Modern Kitchen</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-sm-6 col-md-6 col-lg-4">
+                            <div class="box-card px-3 py-4">
+                                <div class="card">
+                                    <img src="images/ItalianFurniture.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="card-text">Italian Furniture</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row studiogallery g-1">
+                        <div class="col-sm-6 col-md-6 col-lg-4">
+                            <div class="box-card px-3 py-4">
+                                <div class="card">
+                                    <img src="images/ClassicWardrobe.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                        <p class="card-text">Classic Wardrobe</p>
+                                    </div>
+                                </div>
+                            </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4">
+                                <div class="box-card px-3 py-4">
+                                    <div class="card">
+                                        <img src="images/ModernKitchen2.jpg" class="card-img-top" alt="...">
+                                        <div class="card-body">
+                                            <p class="card-text">Modern Kitchen</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-sm-6 col-md-6 col-lg-4">
+                                <div class="box-card px-3 py-4">
+                                    <div class="card">
+                                        <img src="images/HomeInteriors.jpg" class="card-img-top" alt="...">
+                                        <div class="card-body">
+                                            <p class="card-text">Home Interiors</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- </div> -->
+
+                    </div>
+                </div>
+            </div>
     </section>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
