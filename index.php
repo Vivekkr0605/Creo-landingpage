@@ -91,9 +91,9 @@
     </ul>
 
     <section id="bannersection">
-        <div class="container  mt-2">
+        <div class="container mt-2">
             <div class="row">
-                <div class="col-5 my-5">
+                <div class="col-5 my-5 order-sm-first order-md-first">
                     <h2 class="text-light"><i>Designed in Italy</i></h2>
                     <h2 class="mb-5 text-light"><i>Built in India</i></h2>
                     <hr class="bg-danger mb-5" style="height: 8px;">
@@ -107,11 +107,11 @@
                     <h3 class="text-light">Contact Us</h3>
                 </div>
                 <div class="col-7 align-self-center">
-                    <div class="row d-flex bg-light ps-3 pe-3 pt-3 pb-3">
-                        <div class="col-5">
-                            <img src="images/form-img.jpg" class="mt-1 mb-1" alt="">
+                    <div class="row bg-light ps-3 pe-3 pt-3 pb-3">
+                        <div class="col-lg-5 col-md-12">
+                            <img src="images/form-img.jpg" class="mt-1 mb-1" alt="" id="img-bann">
                         </div>
-                        <div class="col-7 align-self-center">
+                        <div class="col-lg-7 col-md-12 col-sm-12 align-self-center">
                             <form>
                                 <h5>Get the Best Designed ​Kitchen & Wardrobe</h5>
                                 <div class="mb-3 pt-3 w-100">
@@ -152,7 +152,7 @@
     <section>
         <div class="container">
             <div class="row my-5">
-                <div class="col-5 mt-5 pt-5">
+                <div class="col-lg-5 col-md-5 col-12 mt-5 pt-5">
                     <h5 class="mb-5">WHAT WE OFFER</h5>
                     <h2 class="">From Kitchen to Wardrobe,</h2>
                     <h2 class="">We've Got You Covered!</h2>
@@ -165,10 +165,10 @@
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 25000 sq. ft. Display in</h3>
                     <h3 class="ms-2">Delhi & Bengaluru</h3>
                 </div>
-                <div class="col-7">
+                <div class="col-lg-7 col-md-7 col-12">
                     <!-- <div class="container"> -->
                     <div class="row studiogallery g-1 mb-1 my-5">
-                        <div class="col-sm-6 col-md-6 col-lg-4">
+                        <div class="col-sm-12 col-md-6 col-lg-4">
                             <div class="box-card px-3 py-4">
                                 <div class="card">
                                     <img src="images/ClassicKitchen.jpg" class="card-img-top" alt="...">
@@ -178,7 +178,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4">
+                        <div class="col-sm-12 col-md-6 col-lg-4">
                             <div class="box-card px-3 py-4">
                                 <div class="card">
                                     <img src="images/ModernKitchen.jpg" class="card-img-top" alt="...">
@@ -188,7 +188,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4">
+                        <div class="col-sm-12 col-md-6 col-lg-4">
                             <div class="box-card px-3 py-4">
                                 <div class="card">
                                     <img src="images/ItalianFurniture.jpg" class="card-img-top" alt="...">
@@ -200,7 +200,7 @@
                         </div>
                     </div>
                     <div class="row studiogallery g-1">
-                        <div class="col-sm-6 col-md-6 col-lg-4">
+                        <div class="col-sm-12 col-md-6 col-sm-12 col-lg-4">
                             <div class="box-card px-3 py-4">
                                 <div class="card">
                                     <img src="images/ClassicWardrobe.jpg" class="card-img-top" alt="...">
@@ -210,7 +210,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4">
+                        <div class="col-sm-12 col-md-6 col-lg-4">
                             <div class="box-card px-3 py-4">
                                 <div class="card">
                                     <img src="images/ModernKitchen2.jpg" class="card-img-top" alt="...">
@@ -220,7 +220,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-sm-6 col-md-6 col-lg-4">
+                        <div class="col-sm-12 col-md-6 col-lg-4">
                             <div class="box-card px-3 py-4">
                                 <div class="card">
                                     <img src="images/HomeInteriors.jpg" class="card-img-top" alt="...">
@@ -379,7 +379,7 @@
                 <hr class="hline text-danger mb-5">
                 <p class="fs-3 fw-light">At Creo, we cater to every category and budget, fulfilling every need with our comprehensive ​range. Whether it's the design you desire, the price you seek, or the timeline you require, we ​handle it all under one roof. Our designs exude minimalism, modernity, and Italian flair.</p>
                 <div class="row studiogallery g-1 mb-1 mt-5 my-5">
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
                                 <!-- <img src="images/ClassicKitchen.jpg" class="card-img-top" alt="..."> -->
@@ -390,7 +390,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
                             <i class="fa-solid fa-house fs-1 pt-3 text-center"></i>
@@ -400,7 +400,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
                             <i class="fa-solid fa-money-bill-1-wave fs-1 pt-3 text-center"></i>
@@ -410,7 +410,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
                             <i class="fa-solid fa-earth-americas fs-1 pt-3 text-center"></i>
@@ -422,7 +422,7 @@
                     </div>
                 </div>
                 <div class="row studiogallery g-1">
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
                             <i class="fa-solid fa-star fs-1 pt-3 text-center"></i>
@@ -432,7 +432,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
                             <i class="fa-solid fa-house fs-1 pt-3 text-center"></i>
@@ -442,7 +442,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
                             <i class="fa-solid fa-money-bill-1-wave fs-1 pt-3 text-center"></i>
@@ -452,7 +452,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-6 col-md-6 col-lg-3">
+                    <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
                             <i class="fa-solid fa-earth-americas fs-1 pt-3 text-center"></i>
@@ -466,6 +466,63 @@
             </div>
         </div>
     </div>
+
+
+    <section id="bannersection">
+        <div class="container  mt-2">
+            <div class="row">
+                <div class="col-lg-6 col-md-6 col-sm-12 my-5">
+                    <h2 class="text-light"><i>Designed in Italy</i></h2>
+                    <h2 class="mb-5 text-light"><i>Built in India</i></h2>
+                    <hr class="bg-danger mb-5" style="height: 8px;">
+                    <h3 class="text-light">What we offer</h3>
+                    <h3 class="text-light">Creo Vs Other Brands</h3>
+                    <h3 class="text-light">Why choose CREO</h3>
+                    <h3 class="text-light">Book a Designer</h3>
+                    <h3 class="text-light">Client Testimonials</h3>
+                    <h3 class="text-light">Our Projects</h3>
+                    <h3 class="text-light">Get Quote</h3>
+                    <h3 class="text-light">Contact Us</h3>
+                </div>
+                <div class="col-lg-6 col-md-6 col-sm-12 align-self-center">
+                    <div class="row bg-light ps-3 pe-3 pt-3 pb-3">
+                        <div class="">
+                            <img src="images/ClassicKitchen.jpg" class="mt-1 mb-1 w-100" style="height: 300px;" alt="">
+                        </div>
+                        <div class="align-self-center">
+                            <form>
+                                <h5 class="text-center fs-2 mt-2">MEET A DESIGNER</h5>
+                                <div class="mb-3 pt-3">
+                                    <input type="email" class="form-control rounded-pill" id="exampleInputEmail1" aria-describedby="emailHelp" placeholder="Your Email Address">
+                                </div>
+                                <div class="mb-3">
+                                    <input type="text" class="form-control rounded-pill" id="exampleInputName" placeholder="Full Name">
+                                </div>
+                                <div class="mb-3">
+                                    <input type="text" class="form-control rounded-pill" id="exampleInputName" placeholder="Mobile Number">
+                                </div>
+                                <div class="mb-3">
+                                    <input type="text" class="form-control rounded-pill" id="exampleInputAddress" placeholder="Address">
+                                </div>
+                                <select class="form-select form-select-lg mb-3 rounded-pill" aria-label="Large select example">
+                                    <option selected>Requirement</option>
+                                    <option value="1">Kitchen</option>
+                                    <option value="2">Wardrobes</option>
+                                    <option value="3">Furniture</option>
+                                </select>                                
+                                <div class="text-center gap-2">
+
+                                    <button type="submit" class="btn btn-danger btn-lg rounded-pill">Submit</button>
+                                </div>
+                                <h6 class="mt-1 text-center fw-lighter">By submitting this form, you agree to the privacy policy</h6>
+
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>

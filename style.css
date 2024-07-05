@@ -25,3 +25,21 @@
     width: 30%;
     font-weight: bolder;
 }
+
+
+@include media-breakpoint-up(sm) {
+   #img-bann{
+    width: inherit;
+   }
+}
+@include media-breakpoint-up(md) { 
+    #img-bann{
+        width: inherit;
+       }
+ }
+@include media-breakpoint-up(lg) {
+    #img-bann{
+        width: 100%;
+       }
+}
+@include media-breakpoint-up(xl) { ... }
