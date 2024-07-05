@@ -1,3 +1,12 @@
+html,body
+{
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+}
+
 #bannersection {
     background-image: url(images/top.jpg);
     background-size: cover;
@@ -20,26 +29,28 @@
     padding: 10px 30px;
 }
 
+
+
 .hline {
     color: red;
     width: 30%;
     font-weight: bolder;
+    
 }
 
 
-@include media-breakpoint-up(sm) {
-   #img-bann{
-    width: inherit;
-   }
-}
+@media (max-width: 576px) { 
+     h2, h3{
+        text-align: center;
+        align-items: center;
+        font-size: larger;
+        color: blue;
+    }
+ }
 @include media-breakpoint-up(md) { 
-    #img-bann{
-        width: inherit;
-       }
+   
  }
 @include media-breakpoint-up(lg) {
-    #img-bann{
-        width: 100%;
-       }
+   
 }
 @include media-breakpoint-up(xl) { ... }
