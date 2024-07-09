@@ -631,7 +631,7 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-card px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/LeelaBar.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
                                     <p class="card-text text-center">Leela Bar</p>
@@ -642,10 +642,10 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-card px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/ViharaCo-Working.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
-                                    <p class="card-text text-center">Leela Bar</p>
+                                    <p class="card-text text-center">Vihara Co-Working</p>
                                 </div>
                             </div>
                         </div>
@@ -653,10 +653,10 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-card px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/FaridabadResidence.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
-                                    <p class="card-text text-center">Leela Bar</p>
+                                    <p class="card-text text-center">Faridabad Residence</p>
                                 </div>
                             </div>
                         </div>
@@ -664,10 +664,10 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-card px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/KhattarResidence.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
-                                    <p class="card-text text-center">Leela Bar</p>
+                                    <p class="card-text text-center">Khattar Residence</p>
                                 </div>
                             </div>
                         </div>
@@ -675,10 +675,10 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-car px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/ChiqueGurgaon.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
-                                    <p class="card-text text-center">Leela Bar</p>
+                                    <p class="card-text text-center">Chique Gurgaon</p>
                                 </div>
                             </div>
                         </div>
@@ -688,10 +688,10 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-car px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/BajajResidence.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
-                                    <p class="card-text text-center">Leela Bar</p>
+                                    <p class="card-text text-center">Bajaj Residence</p>
                                 </div>
                             </div>
                         </div>
@@ -699,10 +699,10 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-car px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/LoftApartment.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
-                                    <p class="card-text text-center">Leela Bar</p>
+                                    <p class="card-text text-center">Loft Apartment</p>
                                 </div>
                             </div>
                         </div>
@@ -710,10 +710,10 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-car px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/LeelaResidence.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
-                                    <p class="card-text text-center">Leela Bar</p>
+                                    <p class="card-text text-center">Leela Residence</p>
                                 </div>
                             </div>
                         </div>
@@ -721,10 +721,10 @@
                     <div class="col-sm-12 col-md-2 col-lg-2">
                         <div class="box-car px-3 py-4">
                             <div class="">
-                                <img src="images/ClassicKitchen.jpg" class="card-img-top w-100 rounded-4" alt="...">
+                                <img src="images/NikooHomes2.jpg" class="card-img-top w-100 rounded-4" alt="...">
 
                                 <div class="">
-                                    <p class="card-text text-center">Leela Bar</p>
+                                    <p class="card-text text-center">Nikoo Homes 2</p>
                                 </div>
                             </div>
                         </div>
