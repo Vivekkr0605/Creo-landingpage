@@ -620,7 +620,7 @@
     </section>
 
 
-    <div class="container-fluid my-5">
+    <div class="container-fluid mt-5">
         <div class="row justify-content-center" style="background-color: papayawhip;">
             <div class="col-10 mx-5 my-5 mx-5 py-5 bg-light">
                 <h4 class="mt-3 mb-4 mx-5 px-5 fw-light justify-content-center">OUR FINISHED PROJECTS</h4>
