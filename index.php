@@ -623,9 +623,9 @@
     <div class="container-fluid mt-5">
         <div class="row justify-content-center" style="background-color: papayawhip;">
             <div class="col-10 mx-5 my-5 mx-5 py-5 bg-light">
-                <h4 class="mt-3 mb-4 mx-5 px-5 fw-light justify-content-center">OUR FINISHED PROJECTS</h4>
+                <h4 class="mt-3 mb-4 mx-5 fw-light">OUR FINISHED PROJECTS</h4>
                 <p class="fs-2 mx-5 fw-light my-0 pb-0">Meet our esteemed clients who have adorned</p>
-                <p class="fs-2 mx-5 fw-light"> ​their spaces with Creo kitchens and wardrobes</p>
+                <p class="fs-2 mx-5 my-0 pb-0 fw-light"> ​their spaces with Creo kitchens and wardrobes</p>
                 <hr class="hline text-danger mx-5 px-5 mb-5">
                 <div class="row studiogallery justify-content-center g-0 mb-1 mt-5 my-5">
                     <div class="col-sm-12 col-md-2 col-lg-2">
@@ -779,8 +779,8 @@
                 <hr class="bg-dark text-dark mb-5 w-80" style="height: 3px;">
                 <div class="col-12 d-flex">
                     <h1 class="">Get social</h1>
-                    <i class="text-danger bg-light fs-3 mx-2 px-3 py-3 rounded-circle fab fa-facebook-f"></i>
-                    <i class="text-danger bg-light fs-3 mx-2 px-3 py-3 rounded-circle fab fa-twitter"></i>
+                    <i class="text-danger bg-light fs-4 mx-2 px-3 py-3 rounded-circle fab fa-facebook-f"></i>
+                    <i class="text-danger bg-light fs-4 mx-2 px-3 py-3 rounded-circle fab fa-twitter"></i>
                     <i class="text-danger bg-light fs-3 mx-2 px-3 py-3 rounded-circle fab fa-instagram"></i>
                     <i class="text-danger bg-light fs-3 mx-2 px-3 py-3 rounded-circle fa-solid fa-location-dot"></i>
                 </div>
