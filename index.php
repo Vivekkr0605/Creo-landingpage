@@ -137,7 +137,7 @@
     <section id="bannersection">
         <div class="container mt-2">
             <div class="row">
-                <div class="col-lg-5 col-md-5 col-sm-12 my-5 order-sm-first order-md-first">
+                <div class="col-lg-5 col-md-5 col-sm-5 col-xs-12 my-5 order-sm-first order-md-first">
                     <h2 class="text-light"><i>Designed in Italy</i></h2>
                     <h2 class="mb-5 text-light"><i>Built in India</i></h2>
                     <hr class="bg-danger mb-5" style="height: 8px;">
@@ -150,10 +150,10 @@
                     <h3 class="text-light">Get Quote</h3>
                     <h3 class="text-light">Contact Us</h3>
                 </div>
-                <div class="col-lg-7 col-md-7 col-sm-12 align-self-center">
+                <div class="col-lg-7 col-md-7 col-sm-5 col-xs-12 align-self-center">
                     <div class="row bg-light ps-3 pe-3 pt-3 pb-3">
-                        <div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-                            <img src="images/form-img.jpg" class="img-fluid mt-1 mb-1 w-100" alt="" id="img-bann">
+                        <div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+                            <img src="images/form-img.jpg" class="img-fluid mt-1 mb-1 w-100" alt="" id="">
                         </div>
                         <div class="col-lg-7 col-md-12 col-sm-12 align-self-center">
                             <form>
@@ -260,7 +260,7 @@
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 15 Design Brands Worldwide</h3>
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 10-Year Warranty by Creo Interiors</h3>
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 25000 sq. ft. Display in</h3>
-                    <h3 class="ms-2">Delhi & Bengaluru</h3>
+                    <h3 class="ms-2">   Delhi & Bengaluru</h3>
                 </div>
                 <div class="col-lg-7 col-md-7 col-12 align-item-center">
                     <!-- <div class="container"> -->
@@ -738,10 +738,10 @@
     <div class="container-fluid bg-dark">
         <div class="row justify-content-center">
             <div class="col-10 section1-b d-flex">
-                <div class="col-lg-6 col-md-12 col-sm-12">
-                    <img src="images/ClassicWardrobe.jpg" class="img-fluid" alt="">
+                <div class="col-lg-6 col-md-6 col-sm-12">
+                    <img src="images/ClassicWardrobe.jpg" class="img-fluid py-5" alt="">
                 </div>
-                <div class="col-lg-6 col-md-12 col-sm-12 mt-5 mx-5 justify-content-center align-self-center">
+                <div class="col-lg-6 col-md-6 col-sm-12 mt-5 mx-5 justify-content-center align-self-center">
                     <h2 class="text-light">Get free quote</h2>
                     <hr class="bg-danger mb-5 text-danger" style="height: 8px;">
                     <h2 class="text-light">☑ Price you desire,</h2>
