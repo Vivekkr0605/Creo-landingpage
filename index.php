@@ -6,11 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Creo</title>
     <link rel="stylesheet" href="style.css">
+    <!-- <link rel="stylesheet" href="owlcarousel/owl.carousel.min.css">
+    <link rel="stylesheet" href="owlcarousel/owl.theme.default.min.css"> -->
+    <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
+    <link rel="stylesheet" href="OwlCarousel2-2.3.4/dist/assets/owl.theme.default.min.css">
 
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/fontawesome.min.css" integrity="sha512-UuQ/zJlbMVAw/UU8vVBhnI4op+/tFOpQZVT+FormmIEhRSCnJWyHiBbEVgM4Uztsht41f3FzVWgLuwzUqOObKw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <style>
         html,
         body {
@@ -68,10 +73,6 @@
             }
 
         }
-
-
-
-        
     </style>
 </head>
 
@@ -95,31 +96,31 @@
     </ul>
 
     <section class="bg-dark">
-    <div class="container">
-        <div class="row  pt-3">
-            <div class="col-12 d-flex section1">
-                <div class="col-lg-6 col-md-6 col-sm-6 float-start align-self-center">
-                    <ul class="d-flex list-unstyled justify-content-start section1-a">
-                        <li class="text-light me-5"><i class="fa-solid fa-phone"></i> 011 4600 2100</li>
-                        <li class="text-light"><i class="fa-solid fa-clock"></i> Mon-Sat 9am - 7pm</li>
-                        <i class="fa-solid fa-clock"></i>
-                    </ul>
-                </div>
-                <div class="col-lg-6 col-md-6 col-sm-6 float-end align-self-center">
-                    <ul class="d-flex justify-content-end mx-auto">
-                        <h5 class="text-light">Follow: </h5>
-                        <i class="text-light p-1 ps-3 pe-4 fab fa-facebook-f"></i>
-                        <i class="text-light p-1 pe-4 fab fa-twitter"></i>
-                        <i class="text-light p-1 pe-4 fab fa-instagram"></i>
-                        <i class="text-light p-1 pe-4 fa-solid fa-location-dot"></i>
-                        <i class="text-light p-1 pe-4 fa-solid fa-phone"></i>
-                    </ul>
+        <div class="container">
+            <div class="row  pt-3">
+                <div class="col-12 d-flex section1">
+                    <div class="col-lg-6 col-md-6 col-sm-6 float-start align-self-center">
+                        <ul class="d-flex list-unstyled justify-content-start section1-a">
+                            <li class="text-light me-5"><i class="fa-solid fa-phone"></i> 011 4600 2100</li>
+                            <li class="text-light"><i class="fa-solid fa-clock"></i> Mon-Sat 9am - 7pm</li>
+                            <i class="fa-solid fa-clock"></i>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-md-6 col-sm-6 float-end align-self-center">
+                        <ul class="d-flex justify-content-end mx-auto">
+                            <h5 class="text-light">Follow: </h5>
+                            <i class="text-light p-1 ps-3 pe-4 fab fa-facebook-f"></i>
+                            <i class="text-light p-1 pe-4 fab fa-twitter"></i>
+                            <i class="text-light p-1 pe-4 fab fa-instagram"></i>
+                            <i class="text-light p-1 pe-4 fa-solid fa-location-dot"></i>
+                            <i class="text-light p-1 pe-4 fa-solid fa-phone"></i>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
-    </div>
     </section>
-    
+
 
     <div class="container">
         <div class="row mt-3 px-3">
@@ -260,7 +261,7 @@
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 15 Design Brands Worldwide</h3>
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 10-Year Warranty by Creo Interiors</h3>
                     <h3 class=""><i class="text-danger fw-bold">✓</i> 25000 sq. ft. Display in</h3>
-                    <h3 class="ms-2">   Delhi & Bengaluru</h3>
+                    <h3 class="ms-2"> Delhi & Bengaluru</h3>
                 </div>
                 <div class="col-lg-7 col-md-7 col-12 align-item-center">
                     <!-- <div class="container"> -->
@@ -295,8 +296,8 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
-                    <div class="row studiogallery g-1">
+                    <!-- </div> -->
+                    <!-- <div class="row studiogallery g-1"> -->
                         <div class="col-sm-12 col-md-6 col-sm-12 col-lg-4">
                             <div class="box-card px-3 py-4">
                                 <div class="card">
@@ -517,8 +518,8 @@
                             </div>
                         </div>
                     </div>
-                </div>
-                <div class="row studiogallery g-1">
+                <!-- </div> -->
+                <!-- <div class="row studiogallery g-1"> -->
                     <div class="col-sm-12 col-md-6 col-lg-3">
                         <div class="box-card px-3 py-4">
                             <div class="card">
@@ -754,9 +755,26 @@
         </div>
     </div>
 
-    <section class="bg-secondary">
+    <!-- testimonials -->
+     <div class="container mt-2 mb-5">
+        <div class="row mb-5 pb-5">
+            <div class="col-12 owl-carousel owl-theme mx-auto pt-5 pb-5 " style="height: 500px;">
+                <div class="item-video" style="height: 500px;" data-merge="3"><a class="owl-video img-fluid" href="https://www.youtube.com/watch?v=EF_kj2ojZaE" style="height:400px;" video:true></a></div>
+                <div class="item-video" style="height: 500px;" data-merge="3"><a class="owl-video img-fluid" href="https://www.youtube.com/watch?v=JpxsRwnRwCQ" style="height:400px;" video:true></a></div>
+                <div class="item-video" style="height: 500px;" data-merge="2"><a class="owl-video img-fluid" href="https://www.youtube.com/watch?v=FBu_jxT1PkA" style="height:400px;" video:true></a></div>
+                <div class="item-video" style="height: 500px;" data-merge="1"><a class="owl-video img-fluid" href="https://www.youtube.com/watch?v=oy18DJwy5lI" style="height:400px;" video:true></a></div>
+                <div class="item-video" style="height: 500px;" data-merge="2"><a class="owl-video img-fluid" href="https://www.youtube.com/watch?v=H3jLkJrhHKQ" style="height:400px;" video:true></a></div>
+                <div class="item-video" style="height: 500px;" data-merge="3"><a class="owl-video img-fluid" href="https://www.youtube.com/watch?v=g3J4VxWIM6s" style="height:400px;" video:true></a></div>
+                <div class="item-video" style="height: 500px;" data-merge="1"><a class="owl-video img-fluid" href="https://www.youtube.com/watch?v=0fhoIate4qI" style="height:400px;" video:true></a></div>
+                <div class="item-video" style="height: 500px;" data-merge="2"><a class="owl-video img-fluid" href="https://www.youtube.com/watch?v=EF_kj2ojZaE" style="height:400px;" video:true></a></div>
+            </div>
+        </div>
+     </div>
+    <!-- testimonials end -->
+
+    <section class="bg-secondary mt-5">
         <div class="container">
-            <div class="row ">
+            <div class="row mt-5">
                 <div class="col-lg-4 col-md-4 col-xm-12 my-5">
                     <h2 class="text-white">STUDIO CREO, Delhi</h2>
                     <h5 class="text-white my-auto">E-52, Mandi Rd, New Manglapuri, ​</h5>
@@ -787,9 +805,43 @@
             </div>
         </div>
     </section>
+    <script>
+        $(document).ready(function() {
+            $(".owl-carousel").owlCarousel();
+        });
 
 
+        $('.owl-carousel').owlCarousel({
+        items:1,
+        merge:true,
+        loop:true,
+        margin:10,
+        video:true,
+        lazyLoad:true,
+        center:true,
+        responsive:{
+            480:{
+                items:2
+            },
+            600:{
+                items:4
+            }
+        }
+    })
+    </script>
+    <script src="jquery.min.js"></script>
+    <!-- <script src="owlcarousel/owl.carousel.min.js"></script> -->
+    <script src="OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
+    <script type="text/javascript" src="javascript.js"></script>
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js" integrity="sha384-IQsoLXl5PILFhosVNubq5LC7Qb9DXgDA9i+tQ8Zj3iwWAwPtgFTxbJ8NT4GN1R8p" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script>
+-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js" integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.min.js" integrity="sha384-0pUGZvbkm6XF6gxjEnlmuGrJXVbNuzT9qBBavbLwCsOGabYfZo0T0to5eqruptLy" crossorigin="anonymous"></script>
